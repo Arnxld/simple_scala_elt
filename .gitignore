@@ -50,3 +50,4 @@ build/
 ### SBT / Scala ###
 project/target/
 project/project/
+project
